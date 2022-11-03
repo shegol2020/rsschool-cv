@@ -34,11 +34,11 @@ Leading platform games support service - both for users and developers (70 257 t
 
 Saint Petersburg State University\
 History\
-Sep 2006 - May 2012\
+Sep 2006 - May 2012  
 
 EPAM UpSkill\
 IT Fundamentals\
-Sep 2022\
+Sep 2022  
 
 ### Languages:
 - Russian – native speaker
