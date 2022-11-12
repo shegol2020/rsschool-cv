@@ -1,0 +1,42 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+  }
+
+/* header */
+.header{
+    padding-top: 21px;
+}
+
+.header-title{ 
+    font-size: 60px;
+    line-height: 89px;
+}
+
+.header-subtitle{
+    font-size: 32px;
+    line-height: 39px;
+}
+
+/* main */
+.main{
+    padding-top: 21px;
+
+}
+
+/* footer */
+ .footer {
+    padding-top: 21px;
+
+} 
+
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    list-style-type: none;
+}
+
+.rslogo{
+    max-width: 50%;
+}
