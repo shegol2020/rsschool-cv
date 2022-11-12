@@ -16,7 +16,7 @@
 .header-subtitle{
     font-size: 32px;
     line-height: 39px;
-}
+}g
 
 /* main */
 .main{
@@ -26,7 +26,7 @@
 /* footer */
  .footer {
     padding-top: 21px;
-} 
+}
 
 .footer-list {
     display: flex;
